@@ -25,4 +25,26 @@
     background-color: rgb(219, 219, 219);
     color: rgb(139, 132, 167);
     border: solid rgb(219, 219, 219) 1px;
+    transition: 0.45s;
+}
+
+.banner-title {
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 40px;
+    margin-left: 38%;
+}
+
+.banner-subtitle {
+    font-size: 25px;
+    font-weight: 400;
+    margin-left: 38%;
+    line-height: 1.8;
+    max-width: 450px;
+}
+
+#city-video {
+    position: absolute;
+    margin-top: 60%;
+    margin-left: 50%;
 }
