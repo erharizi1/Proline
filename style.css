@@ -66,3 +66,7 @@
     font-size: 350%;
     font-family: 'Lato', 'sans-serif';
 }
+
+#features {
+    float: bottom;
+}
