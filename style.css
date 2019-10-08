@@ -1,0 +1,72 @@
+/* Font-i*/
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
+/* imazhi ne header*/
+#logo-image {
+    margin-top: 3%;
+    width: 300px;
+    margin-bottom: 3%;
+}
+
+#header {
+    font-family: 'Lato', 'sans-serif';
+}
+
+/* menuja*/
+#header a {
+    font-size: 150%;
+    border: solid white 1px;
+    text-decoration: none;
+    color: black;
+    padding: 7px;
+    margin-top: 1%;
+    margin-left: 3px;
+}
+
+#header a:hover{
+    background-color: rgb(219, 219, 219);
+    color: rgb(139, 132, 167);
+    border: solid rgb(219, 219, 219) 1px;
+    transition: 0.45s;
+}
+
+.banner-title {
+    font-size: 50px;
+    font-weight: 400;
+    margin-bottom: 40px;
+    margin-left: 38%;
+}
+
+.banner-subtitle {
+    font-size: 25px;
+    font-weight: 400;
+    margin-left: 38%;
+    line-height: 1.8;
+    max-width: 450px;
+}
+
+#city-video {
+    position: absolute;
+    margin-top: 60%;
+    margin-left: 50%;
+}
+/* Videoja*/
+#bg-video {
+    position: fixed;
+    width: 98%;
+    height: auto;
+  }
+
+#video p {
+    margin-top: 10%;
+    position: fixed;
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+    font-size: 350%;
+    font-family: 'Lato', 'sans-serif';
+}
+
+#features {
+    float: bottom;
+}
