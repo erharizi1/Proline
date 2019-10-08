@@ -67,6 +67,25 @@
     font-family: 'Lato', 'sans-serif';
 }
 
-#features {
-    float: bottom;
+#feature-1 {
+    margin-left: 60px;
+    margin-top: 20%;
 }
+
+#feature-2 {
+    margin-left: 85%;
+    margin-bottom: 45%;
+}
+
+
+
+
+
+
+
+
+
+
+/*#features {
+
+}*/
