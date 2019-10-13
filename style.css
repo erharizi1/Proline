@@ -6,10 +6,18 @@
     margin-top: 3%;
     width: 300px;
     margin-bottom: 3%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #header {
     font-family: 'Lato', 'sans-serif';
+    position: sticky;
+    top: 0%;
+    background-color: white;
+    padding-top: 1px;
+    padding-bottom: 1px;
 }
 
 /* menuja*/
@@ -30,26 +38,6 @@
     transition: 0.45s;
 }
 
-.banner-title {
-    font-size: 50px;
-    font-weight: 400;
-    margin-bottom: 40px;
-    margin-left: 38%;
-}
-
-.banner-subtitle {
-    font-size: 25px;
-    font-weight: 400;
-    margin-left: 38%;
-    line-height: 1.8;
-    max-width: 450px;
-}
-
-#city-video {
-    position: absolute;
-    margin-top: 60%;
-    margin-left: 50%;
-}
 /* Videoja*/
 #bg-video {
     position: static;
@@ -67,16 +55,38 @@
     font-family: 'Lato', 'sans-serif';
 }
 
+#features {
+    margin-top: 10%;
+}
+
 #feature-1 {
-    margin-left: 60px;
-    margin-top: 20%;
     width: 40%;
+    float: left;
+    margin-left: 5%;
 }
 
 #feature-2 {
-    margin-left: 85%;
-    margin-bottom: 45%;
-    float: right;
     width: 40%;
+    float: right;
+    margin-right: 5%;
 }
 
+.feature-text {
+    float: right;
+    font-family: 'Lato', 'sans-serif';
+    font-size: 120%;
+}
+
+#feature-1 img{
+    width: 20%;
+    height: auto;
+}
+
+#feature-2 img{
+    width: 19%;
+    height: auto;
+}
+
+.feature-h1 {
+    float: right;
+}
