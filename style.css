@@ -148,19 +148,39 @@ p:last-child {
     height: auto;
     position: relative;
     margin-left: 6%;
+    
 }
 #our-company h1{
     float: right;
-    font-family: 'Lato', 'sans-serif';
-    color: rgb(63, 63, 63);
+    margin-right: 30%;
+    margin-left: 20px;
+    text-align: center;
+    font-size: 250%;
+   
+ 
+
 }
 
 #first-part {
-    width: 65%;
+    width: 80%;
+    color: rgb(63, 63, 63);
 }
 
 #second-part {
     width: 35%;
+    
 }
 
+.company-text {
+    padding: 15%;
+    font-family: 'Lato', 'sans-serif';
+    width: 32%;
+    font-size: 18px;
+    margin-left: 36%;
+    margin-right: 30%;
+    
+}
 
+#first-part img{
+    float: left;
+}
