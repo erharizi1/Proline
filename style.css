@@ -126,13 +126,14 @@
 }
 
 .text-block-1 {
-    position: relative;
+    position: absolute;
     font-family: Italic;
     font-size: 25px;
     line-height: 1.9;
-    padding: 2%;
     margin-bottom: 80px;
-    margin-left: 10.5%;
+    margin-left: 10.9%;
+    top: 251%;
+    margin-right: 44%
 }
 
 p:last-child {
