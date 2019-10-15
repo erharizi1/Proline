@@ -121,18 +121,26 @@
     color: #108ac1;
     margin-top: 20%;
     font-size: 30.5px;
-    margin-left: 13%;
+    margin-left: 15%;
     margin-bottom: 10%;
 }
 
 .text-block-1 {
-    position: relative;
+    position: absolute;
     font-family: Italic;
-    font-size: 25px;
+    font-size: 24px;
     line-height: 1.9;
-    padding: 2%;
     margin-bottom: 80px;
-    margin-left: 10.5%;
+    margin-left: 14.9%;
+    top: 251%;
+    margin-right: 44%;
+}
+
+.text-block-img-1 {
+    margin-left: -4%;
+    margin-bottom: 1%;
+    margin-top: -12%;
+
 }
 
 p:last-child {
