@@ -239,3 +239,21 @@ p:last-child {
     font-family: 'Lato', 'sans-serif';
     color: rgb(138, 138, 138);
 }
+
+#footer-text {
+    float: left;
+    margin-top: 12%;
+    margin-bottom: 3%;
+    margin-left: 3%;
+    font-family: 'Lato', 'sans-serif';
+    color: rgb(138, 138, 138);
+    font-size: 110%;
+}
+
+/*#footer-button {
+    float: right;
+    width: 10%;
+    height: 10%;
+    background-color: rgb(158, 158, 158);
+    border: solid 1px rgb(158, 158, 158);
+}*/
