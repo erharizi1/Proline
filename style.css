@@ -98,18 +98,18 @@
     margin-top: 36%;
     width: 85%;
     height: 130px;
-    background-color: black;
     position: relative;
     margin-left: 6%;
 }
 
 .activities-banner {
     width: 50%;
-    color: #ffffff;
+    color: black;
     font-size: 50px;
     margin-left: 25%;
     text-align: center;
     font-family: 'Lato', 'sans-serif';
+    margin-top: 53%;
 }
 
 .activity-block-1 {
