@@ -246,7 +246,7 @@ p:last-child {
 }
 
 #first-part {
-    width: 80%;
+    width: 78%;
     color: rgb(140, 140, 142);
 }
 
@@ -271,25 +271,37 @@ p:last-child {
 
 .company-text-1{
     font-family: 'Lato', 'sans-serif';
-    width: 30%;
-    font-size: 20px;
+    width: 34%;
+    font-size: 18px;
     margin-left: 50%;
     margin-right: 20%;
+    line-height: 1.5;
    
 }
 .company-text-2 {
     
     font-family: 'Lato', 'sans-serif';
     width: 32%;
-    font-size: 20px;
+    font-size: 18px;
     margin-left: 50%;
     margin-right: 30%;
     padding-top: 28px;
+    line-height: 1.5;
     
 }
 
 .button {
-
+   float: right;
+   margin-top: 63px;
+   font-size: 18px;
+   border: 1px solid #c6c6c6;
+   border-radius: 0;
+   background-color: transparent;
+   color: #6c6c6c;
+   padding: 10px 30px;
+   cursor: pointer;
+   text-decoration:none;
+  
 }
 
 #second-part {
